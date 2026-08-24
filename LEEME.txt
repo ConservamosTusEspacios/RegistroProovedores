@@ -1,0 +1,9 @@
+CONSERVAMOS TUS ESPACIOS — V2 + RRHH
+
+index.html: pantalla inicial con dos rutas.
+proveedor.html: V2 oficial de proveedores, conservada como base visual y funcional.
+rrhh.html: formulario de postulaciones laborales.
+
+El mensaje de éxito de proveedores conserva el diseño y se eliminó únicamente el primer párrafo solicitado.
+
+RRHH requiere: ejecutar SUPABASE-RRHH.sql y crear un bucket PRIVADO llamado hojas-vida.
